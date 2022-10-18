@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <script>
+  const prizes = [];
+    for( let i=0; i<name.length; i++){
+      if(category[i].Physics == research[i].Discovery of an exoplanet orbiting a solar-type star){
+        prizes.push(category[i].name);
+      }
+      if(category[i].Chemistry == research[i].Development of lithium-ion batteries){
+        prizes.push(category[i].name);
+      }
+      
+    }
+    console.log(prizes);
+    
+  </script>
+</body>
+</html>
